@@ -70,11 +70,9 @@ Typical packages used in this project include:
 ## 🖼 Output Images  
 
 📌 Example Linear Regression Plot:  
-https://github.com/prabanand-sc/Linear-Regression---Electricity-Bill-Predictor-/blob/main/output.png
-*(Save your plot inside `images/` and reference it here)*  
 
 ```markdown
-![Electricity Bill Regression Plot](images/output.png)
+![Electricity Bill Regression Plot](output.png)
 ```
 
 ---
@@ -105,4 +103,5 @@ ELECTRICITY_BILL/
 ```
 
 ---
+
 
