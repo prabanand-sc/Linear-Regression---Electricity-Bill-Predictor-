@@ -1,1 +1,1 @@
-# Linear-Regression---Electricity-Bill-Predictor-
+# Linear-Regression---Electricity-Bill-Predictor
