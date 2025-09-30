@@ -72,7 +72,7 @@ Typical packages used in this project include:
 📌 Example Linear Regression Plot:  
 
 ```markdown
-![Electricity Bill Regression Plot](output.png)
+![Electricity Bill Regression Plot]([output.png](https://github.com/prabanand-sc/Linear-Regression---Electricity-Bill-Predictor-/blob/main/output.png))
 ```
 
 ---
@@ -103,5 +103,6 @@ ELECTRICITY_BILL/
 ```
 
 ---
+
 
 
